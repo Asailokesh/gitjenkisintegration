@@ -1,0 +1,93 @@
+1.Purchase Estimate
+2.Activate Coupons
+3.Coupon Redemtion
+4.Generate Master Code
+5.Coupon Generation
+6.Coupon Request
+7.Assets
+8.Target Provider
+9.Target Group
+10.Details Views
+11.Bround Images
+12.Display Modes
+13.Layouts
+14.Mail Server
+15.Service Call
+16.Ticket Groups
+17.Support Settings
+18.Priority
+19.Level Groups
+20.Issue Groups
+21.Sales Estimate
+22.SMS Sender
+23.SMS Provider
+24.Task(no),Tasks(yes)
+25.Task Groups
+26.MileageSettings
+27.Vehicle
+28.MileageUnit
+29.ExpenseItem
+30.Categories
+31.Internal Transfer
+32.Series Settings
+33.Payment Settings
+34.Payment Modes
+35.Receipts Settings
+36.JournalTypes
+37.TCS Contacts
+38.Route Definitions
+39.Itam Tax Rule
+40.Credit Limit Rules
+41.Payment Term Rules
+42.Price Code Rule
+43.Order Approval Rules
+44.Ledger Posting Rules
+45.Expenses Items
+46.Discount Items
+47.Coupon items
+48.Products
+49.UOM
+50.Item Groups
+51.Meter Groups
+52.HSN
+53.Tax Class
+54.Tax Agency
+55.Template Rule
+56.Template Provider
+57.Offer Groups
+58.Offer Provider
+59.Incentive Types
+60.Scheme Types
+61.Tag Category
+72.Tag Group
+73.Balance Sheer Indexing
+74.Ledgers Groups
+75.Ledger Types
+76.Price Codes
+77.Role Settings
+78.Line of Bussiness
+79.Companies
+80.Roles
+81.Designations
+82.Districts
+83.States
+84.Countries
+85.Zones
+86.Payment Methods
+87.App Versions
+88.Vertion Groups
+89.Sources
+90.Providers
+91.Portability Providers
+92.DataList Builder
+93.DataApi Builder
+94.Task Remainders
+95.Reminders
+96.Notification RuleProvider
+97.Event Templates
+99.Module Types
+99.Modules
+100.Dev Organizations
+101.Form Builder
+102.Report Group
+103.
